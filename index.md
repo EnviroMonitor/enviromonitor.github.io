@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to EnviroMonitor Project
 
-You can use the [editor on GitHub](https://github.com/EnviroMonitor/enviromonitor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+EnviroMonitor is an Open Source, community project to provide air quality metrics using network of community maintained air quality monitors. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently project consists of three modules:
 
-### Markdown
+- [EnviroMonitor](https://github.com/EnviroMonitor/EnviroMonitor) - ESP8266 based air quality sensor with budget in mind. You can build it yourself
+- [EnviroMonitorWeb](https://github.com/EnviroMonitor/EnviroMonitorWeb) - Django based web backend providing API for sending and receiving air quality metrics. You can host it yourself or use our generally available backend at air-monitor.org
+- [EnviroMonitorFrontend](https://github.com/EnviroMonitor/EnviroMonitorFrontend) - Frontend for presenting air quality data from connected sensors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EnviroMonitor - sensor
 
-```markdown
-Syntax highlighted code block
+## EnviroMonitorWeb - web backend
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnviroMonitor/enviromonitor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## EnviroMonitorFrontend - web frontend
