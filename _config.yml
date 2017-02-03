@@ -3,3 +3,5 @@ title: EnviroMonitor - Community and Open Source air quality monitoring
 description: EnviroMonitor is a community and Open Source project to help monitor air quality around the world. We measure PM2.5 and PM10 as well as temperature, humidity and barometric pressure. Data is collected at global site and can be sent to WeatherUnderground.
 show_downloads: false
 google_analytics: UA-89513736-1
+exclude:
+  - vendor
