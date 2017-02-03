@@ -2,6 +2,8 @@
 
 EnviroMonitor is an Open Source, community project to provide air quality metrics using network of community maintained air quality monitors. 
 
+Join our [Slack community](https://enviromonitor.signup.team/)
+
 Currently project consists of three modules:
 
 - [EnviroMonitor](https://github.com/EnviroMonitor/EnviroMonitor) - ESP8266 based air quality sensor with budget in mind. You can build it yourself
